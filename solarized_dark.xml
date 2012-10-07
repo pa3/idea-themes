@@ -1049,7 +1049,7 @@
     </option>
     <option name="ECMAL4.AL4.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="6c71c4" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1079,7 +1079,7 @@
     </option>
     <option name="ECMAL4.CLASS">
       <value>
-        <option name="FOREGROUND" value="859900" />
+        <option name="FOREGROUND" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
@@ -1159,7 +1159,7 @@
     </option>
     <option name="ECMAL4.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="268bd2" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1169,9 +1169,9 @@
     </option>
     <option name="ECMAL4.INTERFACE">
       <value>
-        <option name="FOREGROUND" value="b58900" />
+        <option name="FOREGROUND" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -1219,7 +1219,7 @@
     </option>
     <option name="ECMAL4.PARAMETER">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="859900" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -5512,7 +5512,7 @@
         <option name="FOREGROUND" value="dc322f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_COLOR" value="dc322f" />
         <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>

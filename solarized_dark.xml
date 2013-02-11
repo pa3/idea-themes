@@ -1099,26 +1099,6 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
-    <option name="ECMAL4.DOC_MARKUP">
-      <value>
-        <option name="FOREGROUND" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
-    <option name="ECMAL4.DOC_TAG">
-      <value>
-        <option name="FOREGROUND" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
     <option name="ECMAL4.DOT">
       <value>
         <option name="FOREGROUND" value="2aa198" />
@@ -1566,16 +1546,6 @@
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
-    <option name="Groovydoc tag">
-      <value>
-        <option name="FOREGROUND" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
@@ -4429,26 +4399,6 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
-    <option name="SCOPE_KEY_Changed Files">
-      <value>
-        <option name="FOREGROUND" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
-    <option name="SCOPE_KEY_Default">
-      <value>
-        <option name="FOREGROUND" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
     <option name="SCOPE_KEY_Non-Project Files">
       <value>
         <option name="FOREGROUND" />
@@ -4744,16 +4694,6 @@
         <option name="FOREGROUND" value="268bd2" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
-    <option name="SQL_SYNTETIC_ENTITY">
-      <value>
-        <option name="FOREGROUND" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />

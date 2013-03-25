@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="myzenburn" version="1" parent_scheme="Default">
   <option name="LINE_SPACING" value="0.8" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
   <option name="CONSOLE_FONT_NAME" value="Droid Sans Mono Dotted" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
-  <option name="EDITOR_FONT_NAME" value="Inconsolata LGC" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ANNOTATIONS_COLOR" value="3e83e7" />
     <option name="CARET_COLOR" value="ffff99" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1a1a1a" />
-    <option name="FILESTATUS_ADDED" value="56e18" />
-    <option name="FILESTATUS_MODIFIED" value="147cf" />
+    <option name="FILESTATUS_ADDED" value="5c828" />
+    <option name="FILESTATUS_MODIFIED" value="7b94e9" />
     <option name="FOLDING_TREE_COLOR" value="ffffff" />
     <option name="GUTTER_BACKGROUND" value="434443" />
     <option name="LINE_NUMBERS_COLOR" value="dcdccc" />
@@ -465,6 +465,16 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
+    <option name="ECMAL4.COMMA">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
     <option name="ECMAL4.DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="7e9e7e" />
@@ -657,10 +667,10 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="ff6864" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" value="dca3a3" />
+        <option name="EFFECT_COLOR" value="ff6864" />
         <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="dca3a3" />
       </value>
@@ -2637,10 +2647,10 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="ff6864" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" value="dca3a3" />
+        <option name="EFFECT_COLOR" value="ff6864" />
         <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
